@@ -10064,11 +10064,17 @@ section {
 }
 
 .wk_footer {
-	margin-top: auto;
-	height:52px;
+
+	margin: 0 auto;
+
 	width: 1160px;
+
 	background: url(../images/footer_logo.png) no-repeat right center;
+
 	color: #b6b3b3;
+
+	line-height: 28px;
+
 }
 
 .wk_footer a {
